@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+
+nav{
+    text-align: center;
+
+}
+
+nav a{
+    font-size: 30px;
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+}
+
+a:hover{
+    background-color:white;
+    text-decoration: underline;
+    color: red;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 42px;
+}
+
+h2{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+
+div{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+div a{
+    color: red;
+    font-size: 20px;
+}
+
+div small{
+    color:white;
+    font-size: 20px;
+}
+
+div img{
+border:  solid rgb(151, 106, 22) 4px;
+border-radius: 10px;
+}
+
